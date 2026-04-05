@@ -1,0 +1,29 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Local environment folders
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Competition data and generated artifacts
+data/*
+!data/.gitkeep
+!data/README.md
+
+# Notebook or local run outputs
+*.log
+*.tmp
