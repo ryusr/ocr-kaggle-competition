@@ -19,7 +19,6 @@ data/
   image_cut/
   labels/
   ocr_cache_easyocr/
-  repair_cache_groq/
   submission.csv
   submission.partial.csv
 ```
