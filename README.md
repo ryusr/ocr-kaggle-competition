@@ -1,7 +1,7 @@
 
-# Thai Election OCR — EasyOCR Pipeline
+# Thai OCR — EasyOCR Pipeline
 
-A notebook-first OCR workflow for extracting Thai election result tables from scanned page images and producing a Kaggle-ready `submission.csv`.
+A OCR workflow for extracting Thai election result tables from scanned page images and producing a Kaggle-ready `submission.csv`.
 
 All processing runs **locally** using EasyOCR. No API keys or external LLM services required.
 
